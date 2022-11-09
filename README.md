@@ -8,3 +8,7 @@
 
 # 07-11-2565
 #ลอง append แบบ csv โดยตรง
+
+# 09-11-2565
+#แก้ function 2
+#write function 3,5
